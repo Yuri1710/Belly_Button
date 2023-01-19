@@ -20,6 +20,11 @@ Interactive dashboard and charts display bacteria that live inside the human bod
 
 ## Dashboard Project Overview:
 
+<sub>Click here for Dashoard Overview:</sub> http://127.0.0.1:5501/Belly_Button/index.html
+
+
+
+
 
 ![belly title](https://user-images.githubusercontent.com/114257085/213535313-ff9faf91-68e6-4902-b3c3-4c6b977b9575.PNG)
 
@@ -27,4 +32,4 @@ Interactive dashboard and charts display bacteria that live inside the human bod
 ![Belly graphs](https://user-images.githubusercontent.com/114257085/213535133-b04130f2-e628-4a20-bdf0-b9539e5965d4.PNG)
 
 
-<sub>Click here for Dashoard Overview:</sub> http://127.0.0.1:5501/Belly_Button/index.html
+
