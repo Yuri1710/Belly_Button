@@ -16,7 +16,9 @@ Our first step was to master the basics of Plotly.Furthermore, we identify the t
 + Deploy an interactive chart to GitHub Pages.
 
 
-Interactive dashboard and charts display bacteria that live inside the human body:
+Interactive dashboard and charts display bacteria that live inside the human body.
+
+## Dashboard Overview Project:
 
 
 
